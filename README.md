@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1>Djonatan Schvambach</h1>
 <p>Estudando desenvolvimento com <img align="center" alt="Dj-DOTNET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"> </p>
 
