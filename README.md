@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h1>Djonatan Schvambach</h1>
 <p>Estudando desenvolvimento com <img align="center" alt="Dj-DOTNET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"> </p>
 
@@ -17,7 +17,6 @@
 </div>
   
   <br>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="djonatan-schvambach-25a2051bb" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/djonatan-schvambach-25a2051bb?trk=profile-badge">Djonatan Schvambach</a></div>
               
   
   <div> 
