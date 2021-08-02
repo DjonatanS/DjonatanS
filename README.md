@@ -16,6 +16,8 @@
 </div>
   
   <br>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="djonatan-schvambach-25a2051bb" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/djonatan-schvambach-25a2051bb?trk=profile-badge">Djonatan Schvambach</a></div>
+              
   
   <div> 
   <a href = "mailto:djonatanschvambach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
