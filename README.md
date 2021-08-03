@@ -23,4 +23,11 @@
   <a href = "mailto:djonatanschvambach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/djonatan-schvambach-25a2051bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  <div style="display=inline-block">
+  <h1>Linguagens utilizadas ultimamente </h1> 
+  </div>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DjCod3r/41c2ca28-e948-44c4-b114-ca5baf97a3c8.png" /></a>
+ 
+  
+
 
