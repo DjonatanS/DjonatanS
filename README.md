@@ -1,6 +1,6 @@
 
 <h1>Djonatan Schvambach</h1>
-<p>Estudando desenvolvimento com <img align="center" alt="Dj-DOTNET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"> </p>
+<p>Estudando desenvolvimento Full-Stack com <img align="center" alt="Dj-DOTNET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"> </p>
 
 <div>
   <a href="https://github.com/DjCod3r">
@@ -23,10 +23,8 @@
   <a href = "mailto:djonatanschvambach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/djonatan-schvambach-25a2051bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  <div style="display=inline-block">
-  <h1>Linguagens utilizadas recentemente</h1> 
-  </div>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DjCod3r/41c2ca28-e948-44c4-b114-ca5baf97a3c8.png" /></a>
+
+
  
   
 
