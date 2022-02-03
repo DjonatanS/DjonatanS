@@ -1,6 +1,7 @@
 
 <h1>Djonatan Schvambach</h1>
-<h2>Atualmente estou focando em estudar Data Science , aprendendo sobre bancos de dados NoSQL como mongoDB e apache spark </h2>
+<h3>Atuo na área de BI da Gerdau<h3>
+<h3>Atualmente estou focando em estudar Data Science , aprendendo sobre bancos de dados NoSQL como mongoDB e apache spark </h3>
 
 
 <div>
