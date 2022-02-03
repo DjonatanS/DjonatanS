@@ -1,6 +1,6 @@
 
 <h1>Djonatan Schvambach</h1>
-<h2>Estudante e Pesquisador  </h2>
+<h2>Atualmente estou focando em estudar Data Science , aprendendo sobre bancos de dados NoSQL como mongoDB e apache spark </h2>
 
 
 <div>
