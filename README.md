@@ -1,6 +1,6 @@
 
 <h1>Djonatan Schvambach</h1>
-<h3>Atuo na área de BI da Gerdau<h3>
+<h3>Estagiário em BI e Analise de Dados<h3>
 <h3>Atualmente estou focando em estudar Data Science , aprendendo sobre bancos de dados NoSQL como mongoDB e apache spark </h3>
 
 
