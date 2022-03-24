@@ -1,6 +1,7 @@
 
 <h1>Djonatan Schvambach</h1>
-<h3>Data Science and Machine Learning <h3>
+<h4>Atuo na área de BI e Analise de Dados na Gerdau, auxiliando equipes de RH e Contabil nas tomadas de decições baseadas em dados e busco problemas através das informações. 
+  Atualmente estudando Data Science e Machine learning<h4>
 
 
 
