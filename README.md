@@ -1,7 +1,7 @@
 
 <h1>Djonatan Schvambach</h1>
-<h4>Atuo na área de BI e Analise de Dados na Gerdau, auxiliando equipes de RH e Contabil nas tomadas de decições baseadas em dados e busco problemas através das informações. 
-  Atualmente estudando Data Science e Machine learning<h4>
+<h4>I have experience in a company with more than 20k employees, helping HR managers in strategic decision making and finding new possibilities through data.
+<h4>
 
 
 
