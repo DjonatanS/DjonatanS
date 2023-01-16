@@ -3,14 +3,6 @@
 <h4>I have experience in a company with more than 20k employees, helping HR managers in strategic decision making and finding new possibilities through data.
 <h4>
 
-
-
-<div>
-  <a href="https://github.com/DjonatanS">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DjonatanS&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjonatanS&layout=compact&langs_count=7&theme=aura"/>
-</div>
-
 <div style="display:flex"><br>
   <img style="text-align:center" align="center" alt="Dj-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dj-DOTNET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
