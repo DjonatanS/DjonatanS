@@ -1,6 +1,6 @@
 
 <h1>Djonatan Schvambach</h1>
-<h4>Passionate Data Engineer with expertise in building scalable data pipelines using Python, Apache Airflow, AWS, and Databricks. I specialize in ETL processes, data validation, and analytics, delivering efficient and reusable codebases to drive data-driven decisions.
+<h4>Passionate Data Engineer with expertise in building scalable data pipelines using  Go, Python, Apache Airflow, AWS, and Databricks. I specialize in ETL processes, data validation, and analytics, delivering efficient and reusable codebases to drive data-driven decisions.
 <h4>
 
 <div style="display:flex"><br>
