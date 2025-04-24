@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djonatans&label=Profile%20views&color=0e75b6&style=flat" alt="djonatans" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=djonatans&theme=dark_lover" alt="djonatans" /></a> </p>
-
 - 🔭 I’m currently working on **Golang Data Processing Framework**
 
 - 🌱 I’m currently learning **Software Architecture and Vector Databases**
